@@ -1,0 +1,4 @@
+Please enter the Celsius temperature: 
+Please enter the initial altitude: 
+Please enter the final altitude: 
+The temp in Fahrenheit at 6752 feet is: 
